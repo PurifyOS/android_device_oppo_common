@@ -28,5 +28,5 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 #$(call add-product-dex-preopt-module-config,com.cyanogenmod.keyhandler,disable)
 
 # Recovery
-PRODUCT_PACKAGES += \
-    librecovery_updater_oppo
+# PRODUCT_PACKAGES += \
+#    librecovery_updater_oppo
